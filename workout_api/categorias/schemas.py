@@ -3,4 +3,4 @@ from pydantic import Field
 from workout_api.contrib.schemas import BaseSchema
 
 class Categoria(BaseSchema):
-     nome: Annotated[str, Field(description="Nome da Categoria", examples="Scale", max_length=10)]
+     nome: Annotated[str, Field(description="Nome da Categoria", example="Scale", max_length=10)]
