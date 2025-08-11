@@ -1,3 +1,9 @@
 /Makefile
 
 /workout_api/__pycache__
+/alembic/__pycache__
+/workout_api/contrib/__pycache__
+/workout_api/atleta/__pycache__
+/workout_api/categorias/__pycache__
+/workout_api/centro_treinamento/__pycache__
+/workout_api/contrib/repository/__pycache__
